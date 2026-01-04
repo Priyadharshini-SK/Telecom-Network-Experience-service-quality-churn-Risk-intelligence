@@ -1,25 +1,29 @@
-# Telecom-Network-Experience-service-quality-churn-Risk-intelligence
-Power BI project analyzing telecom customer churn and high-risk segments
+Telecom Customer Churn & Risk Intelligence
+📊 Project Overview
 
-📌 Project Overview
+This Power BI project analyzes telecom customer churn and high-risk segments.
+The goal is to identify key churn drivers, segment high-risk customers, and provide actionable recommendations to improve retention and reduce churn.
 
-Customer churn is a major challenge in the telecom industry. This project uses Power BI to analyze customer behavior, identify churn drivers, segment high-risk customers, and provide actionable business recommendations to improve customer retention.
-The dashboard suite is designed to support executive decision-making, customer analysis, and risk mitigation strategies.
+🧠 Business Questions Answered
 
-🎯 Business Objectives
-
-Identify key factors contributing to customer churn
-Analyze customer demographics and service usage patterns
-Segment customers based on churn risk
-Detect high-risk customers early
-Provide data-driven recommendations to reduce churn
+What are the main factors driving customer churn?
+Which customer segments are at the highest risk of leaving?
+How does contract type, service usage, and payment method influence churn?
+How can telecom operators take proactive actions to retain customers?
 
 📂 Dashboards Included
+
+-Executive Overview
+-Customer Overview
+-Customer Segment Risk Analysis
+-High-Risk Customer Identification
+-Recommendations
+
 1️⃣ Executive Overview
 
 Overall customer base summary
 Total customers, churned customers, and churn rate
-Key churn drivers such as contract type, tech support, and online security
+Key churn drivers: contract type, tech support, online security
 
 2️⃣ Customer Overview
 
@@ -35,17 +39,28 @@ Risk comparison by internet service and payment method
 
 4️⃣ High-Risk Customer Identification
 
-Identification of customers most likely to churn
+Customers most likely to churn
 Tenure vs monthly charges behavior analysis
-High-risk segments based on contract, payment method, and service support
+High-risk segments by contract, payment method, and service support
 
 5️⃣ Recommendations
 
 Key Influencers analysis to identify strongest churn drivers
-Actionable recommendations to reduce churn
-Business-focused insights for retention strategy planning
+Actionable strategies to reduce churn
+Business-focused retention insights
 
-🔍 Key Insights
+🛠 Tools & Skills Used
+
+Power BI (Desktop, Power Query, DAX)
+Data Modeling & Visualization
+Business Intelligence & Analytics
+Dataset Source: CSV
+
+📸 Dashboard Preview
+
+All dashboard screenshots are available in the screenshots/ folder, and the dataset CSV file is included in the repository.
+
+📌 Key Insights
 
 Month-to-month contract customers have the highest churn risk
 Customers with low tenure and high monthly charges are more likely to churn
@@ -55,32 +70,10 @@ Customers using Electronic Check payment method show higher churn rates
 💡 Business Recommendations
 
 Incentivize customers to move from month-to-month to long-term contracts
-Bundle Tech Support and Online Security services for high-risk customers
+Bundle Tech Support and Online Security for high-risk customers
 Introduce personalized pricing plans for customers with high monthly charges
-Encourage customers to adopt auto-payment methods to reduce churn
+Encourage adoption of auto-payment methods to reduce churn
 
-🛠️ Tools & Technologies
+📎 File
 
-Power BI
-DAX
-Data Modeling
-Data Visualization
-Business Intelligence & Analytics
-
-📁 Repository Structure
-Telecom-Churn-Risk-Intelligence/
-│
-├── dashboards/
-│   ├── 01_Executive_Overview.png
-│   ├── 02_Customer_Overview.png
-│   ├── 03_Customer_Segment_Risk_Analysis.png
-│   ├── 04_High_Risk_Customer_Identification.png
-│   └── 05_Recommendations.png
-│
-├── Telecom_Churn_Risk_Intelligence_PowerBI.pbix
-└── README.md
-
-📈 Outcome
-
-This project demonstrates an end-to-end analytical approach, combining data exploration, risk analysis, and business strategy.
-It highlights the ability to translate data insights into real-world business actions.
+Telecom_Churn_Risk_Analysis.pbix
