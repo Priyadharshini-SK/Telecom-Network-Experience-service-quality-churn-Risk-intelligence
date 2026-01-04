@@ -76,5 +76,4 @@ Introduce personalized pricing plans for customers with high monthly charges
 Encourage adoption of auto-payment methods to reduce churn
 
 📎 File
-
 Telecom_Churn_Risk_Analysis.pbix
