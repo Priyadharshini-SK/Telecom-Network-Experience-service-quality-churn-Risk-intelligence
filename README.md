@@ -1,4 +1,5 @@
 Telecom Customer Churn & Risk Intelligence
+
 📊 Project Overview
 
 This Power BI project analyzes telecom customer churn and high-risk segments.
